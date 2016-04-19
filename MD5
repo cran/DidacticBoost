@@ -1,0 +1,8 @@
+2eeb723a46327a8cdecc41fd8cf03464 *DESCRIPTION
+17fac6ea176813be72daa2fee08b25de *NAMESPACE
+69e07b44ad666c24bd20d811bf7aeeb3 *R/Main.R
+2b9d6a0c243fd4ae68ddad05a20f25f9 *man/fitBoosted.Rd
+221dca32d87eca0ee4c51838624ce657 *man/is.boosted.Rd
+564477435a71b65d31523035e9edec6c *man/predict.boosted.Rd
+7256956adbd9a2663672fb0a389fd814 *tests/testthat.R
+283dc31c02bf6708fe2297bde0fd3f0e *tests/testthat/test-Main.R
